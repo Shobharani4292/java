@@ -34,7 +34,7 @@ public class Else_If {
         {
             System.out.println(ch+ " is not a vowel");
         }
-        sc.close();
+        sc.close(); 
     }
 
     
