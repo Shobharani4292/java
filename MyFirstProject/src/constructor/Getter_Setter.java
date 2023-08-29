@@ -27,8 +27,5 @@ public class Getter_Setter {
         ob.setName("Shobha");
 		System.out.println(ob.getId());
         System.out.println(ob.getName());
-	    
-
 	}
-    
 }
